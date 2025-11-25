@@ -22,7 +22,7 @@ int productPrice[PRODUCT_COUNT] = {
     10000,  // Citato
     27000,  // Silver Queen
     5500,   // Sabun
-    3500    // Indomie
+    3000    // Indomie
 };
 
 // Cart (jumlah per produk)
